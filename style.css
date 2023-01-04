@@ -1,0 +1,95 @@
+#first-img {
+  border-radius: 3%;
+  width: 1670px;
+  height: 200px;
+  object-fit: cover;
+}
+
+h1 {
+  color: grey;
+  background-color: pink;
+}
+
+h2 {
+  color: #ff1493;
+  background-color: grey;
+}
+
+#p1 {
+  background-color: #ff1493;
+}
+
+h3 {
+  background-color: yellow;
+}
+
+h3:hover {
+  color: aqua;
+}
+
+#bild2 {
+  border: 5px solid yellow;
+  border-radius: 100%;
+  float: left;
+  width: 150px;
+  height: 110px;
+}
+
+#bild3 {
+  border: 5px solid blue;
+  border-radius: 100%;
+  float: right;
+  width: 150px;
+  height: 110px;
+}
+
+#bild4 {
+  border: 5px solid palevioletred;
+  border-radius: 100%;
+  float: left;
+  width: 150px;
+  height: 110px;
+}
+
+#a1 {
+  color: aqua;
+}
+
+#bild5 {
+  border-radius: 3%;
+  width: 1670px;
+  height: 200px;
+  object-fit: cover;
+}
+
+#div1 ul {
+  list-style: none;
+  background-color: aquamarine;
+}
+
+#div1 :hover {
+  background-color: yellow;
+}
+
+#div1 li :active {
+  background-color: blue;
+  color: azure;
+}
+#div1 li :visited {
+  color: tomato;
+}
+
+#div2 ul {
+  list-style: circle;
+  background-color: aqua;
+}
+
+#div2  :hover {
+background-color: #ff1493;
+
+}
+
+#div2 li :active {
+
+  color: whitesmoke;
+}
